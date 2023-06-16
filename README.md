@@ -35,4 +35,6 @@ git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN/blob/main/GOLSKY-SCAN.py
 ## 📜 Credits :
 ---
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/jaouad-talbi/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaouad-talbi/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaouad-talbi/)
