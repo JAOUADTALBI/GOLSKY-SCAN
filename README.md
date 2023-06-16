@@ -1,7 +1,7 @@
 # GOLSKY SCAN
 ---
 <p align="center">
-<img src="logos.png" alt="center" style="width:500px; height:500px"/>
+<img src="logos.jpg" alt="center" style="width:500px; height:500px"/>
 </p>
 "Introducing GOLSKY SCAN, the ultimate enumeration scanning tool. With friendly interface and powerful capabilities, GOLSKY SCAN makes it easy to identify vulnerabilities and security weaknesses in your network. Whether you're a professional penetration tester or just looking to secure your own network, GOLSKY SCAN is the perfect tool for the job."
 "GOLSKY-SCAN Enumeration Tool. * Port Scanning * Vulnerability Scanning * Fast and reliable python script that makes active and/or passive scan to obtain port vulnerablities Information Gathering, Vulnerability Scanning …"
