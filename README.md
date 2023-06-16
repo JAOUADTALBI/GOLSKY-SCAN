@@ -16,7 +16,8 @@
   
 ``` 
 ```
-git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN/blob/main/GOLSKY-SCAN.py
+
+  git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN/blob/main/GOLSKY-SCAN.py
   
 ```
 ```
@@ -29,6 +30,7 @@ git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN/blob/main/GOLSKY-SCAN.py
 ```
 ## :pushpin: Usage :
 ---
+
 ✔️`` Python3 GOLSKY-SCAN.py``
 
 ![ezgif com-gif-maker](https://u.gif)
