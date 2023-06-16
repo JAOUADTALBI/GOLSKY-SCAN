@@ -1,7 +1,7 @@
 # GOLSKY SCAN
 ---
 <p align="center">
-<img src="logos.jpg" alt="center" style="width:100px; height:100px"/>
+<img src="logos.jpg" alt="center" style="width:200px; height:200px"/>
 </p>
 
 "Introducing GOLSKY SCAN, the ultimate enumeration scanning tool. With friendly interface and powerful capabilities, GOLSKY SCAN makes it easy to identify vulnerabilities and security weaknesses in your network. Whether you're a professional penetration tester or just looking to secure your own network, GOLSKY SCAN is the perfect tool for the job."
