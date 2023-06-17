@@ -17,7 +17,7 @@
 ``` 
 ```
 
-  git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN/blob/main/GOLSKY-SCAN.py
+  git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN.git
   
 ```
 ```
