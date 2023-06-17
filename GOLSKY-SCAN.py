@@ -68,7 +68,7 @@ def scan2():
 
 # Brute force directory
 def scan3():
-    f = open("shdscan.txt")
+    f = open("GolskyScan.txt")
     x = "http://" + host + "/"
     direc = f.readlines()
     try:
