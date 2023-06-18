@@ -18,6 +18,9 @@ sudo apt install nmap
 git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN.git
 ```
 ```
+chmod +x GOLSKY-SCAN
+```
+```
 cd GOLSKY-SCAN
 ```
 ```
