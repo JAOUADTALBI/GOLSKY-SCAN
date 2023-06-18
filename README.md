@@ -21,7 +21,7 @@ git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN.git
   
 ```
 ```
-cd GOLSKY SCAN
+cd GOLSKY-SCAN
   
 ```
 ```
