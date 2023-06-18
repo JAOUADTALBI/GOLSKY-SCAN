@@ -13,18 +13,15 @@
 
 ``` 
 sudo apt install nmap
-  
 ``` 
 ```
 git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN.git
 ```
 ```
 cd GOLSKY-SCAN
-  
 ```
 ```
 pip install -r Requirements.txt
-  
 ```
 ## :pushpin: Usage :
 ---
