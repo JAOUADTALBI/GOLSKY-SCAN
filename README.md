@@ -31,7 +31,7 @@ pip install -r Requirements.txt
 
 ✔️`` Python3 GOLSKY-SCAN.py``
 
-![ezgif com-gif-maker](https://u.gif)
+![ezgif com-gif-maker](https://github.com/JAOUADTALBI/GOLSKY-SCAN/blob/main/videoGif.gif)
 ## 📜 Credits :
 ---
 
