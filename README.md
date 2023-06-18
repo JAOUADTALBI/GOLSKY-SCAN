@@ -12,20 +12,20 @@
 ---
 
 ``` 
-  sudo apt install nmap
+sudo apt install nmap
   
 ``` 
 ```
 
-  git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN.git
+git clone https://github.com/JAOUADTALBI/GOLSKY-SCAN.git
   
 ```
 ```
-  cd GOLSKY SCAN
+cd GOLSKY SCAN
   
 ```
 ```
-  pip install -r Requirements.txt
+pip install -r Requirements.txt
   
 ```
 ## :pushpin: Usage :
